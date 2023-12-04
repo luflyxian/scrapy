@@ -1,4 +1,4 @@
-国内：京东，前程无忧，BOSS直聘，招标，股票，赶集网app，淘宝app
+国内：BOSS直聘，前程无忧，招标，股票，京东，赶集网app，淘宝app
 
 海外：edsy，indeed，gojek，asnzom为近期公司项目暂无展示（注：详情页和评论页无法使用request获取，使用ja3浏览器指纹获取数据）
 
