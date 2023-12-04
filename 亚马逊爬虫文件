@@ -19,11 +19,12 @@ from lxml import etree
 from threading import Lock
 from functools import partial
 
+
 lock = Lock()
 
-Industry_dict = {} #商品列表
+Industry_dict = {} #商品列表，需要更新
 
-Location_dict = {} #应用分类
+Location_dict = {} #应用分类，需要更新
 
 
 def parse_date(date_str):
