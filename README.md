@@ -1,5 +1,5 @@
 国内：京东，前程无忧，BOSS直聘，招标，股票，赶集网app，淘宝app
 
-海外：asnzom，edsy，indeed，gojek
+海外：edsy，indeed，gojek，asnzom为近期公司项目暂无展示（注：详情页和评论页无法使用request获取，使用ja3浏览器指纹获取数据）
 
 其他技术：代理ip池搭建，数据报表生成，数据异常预警
