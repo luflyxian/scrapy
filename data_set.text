@@ -1,0 +1,22 @@
+# 大规模数据集
+GigaSpeech	https://huggingface.co/datasets/speechcolab/gigaspeech	音频数据，来源https://zhuanlan.zhihu.com/p/449931866
+Reddit	https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/	reddit文本评论数据集
+VOiCES 	https://iqtlabs.github.io/voices/downloads/	VOiCES 音频语料库
+academictorrents	https://academictorrents.com/browse.php?search=Reddit+comments	reddit 评论数据集
+amazon_reviews	https://snap.stanford.edu/data/web-Amazon-links.html	亚马逊1995-2023年评论数据
+commonvoice	https://commonvoice.mozilla.org/zh-CN/datasets	commonvoice公开语音数据集
+keithito	https://keithito.com/LJ-Speech-Dataset/	LJ 语音数据集
+Kaggle	https://www.kaggle.com/datasets?tags=16668-Pre-Trained+Model	Skip to content Kaggle公开数据集
+twine	https://www.twine.net/blog/100-audio-and-video-datasets/	Twine AI使企业能够构建符合道德规范的自定义数据集，从而减少模型偏差并覆盖人类作为主体的领域，例如语音和视觉。为了帮助简化模型构建，我们整理了150 多个开放音频和视频数据集的列表。
+paperswithcode	https://paperswithcode.com/datasets?mod=audio&lang=english	paperswithcode公开数据集
+Yuan-ManX	https://github.com/Yuan-ManX/ai-audio-datasets/blob/main/README.md#s	元漫X公开数据集
+msnews	https://msnews.github.io/	MIND 包含约 16 万篇英文新闻文章和 100 万用户生成的超过 1500 万条印象日志
+英语歌词数据集	https://www.heywhale.com/mw/dataset/5aab8085afaabd5e93e4e027/file	感谢LyricsFreak网友提供的原始数据，该数据集包含了超过57650首英文歌曲的详尽数据，可用于自然语言处理的分析目的。如果对情感表达有特别的兴趣，也可以用该数据集做更深入的分析。
+纽约时报评论数据集	https://www.heywhale.com/mw/dataset/5cb9581f8c90d7002c805334/file
+70+nlp数据集（含中文、英语）	https://www.heywhale.com/mw/project/6212fe4d8da0860017bc5036	仅供记录
+网络教育题目	https://huggingface.co/datasets/EleutherAI/proof-pile-2
+humdata	https://data.humdata.org/dataset/social-connectedness-index	美国邮政编码数据集
+auto_math_text	https://huggingface.co/datasets/math-ai/AutoMathText/
+knowledge	https://huggingface.co/datasets/Query-of-CC/Knowledge_Pile/tree/main/data
+knowledge_pile_full
+indonesian_news	https://www.kaggle.com/datasets/iqbalmaulana/indonesian-news-dataset?resource=download	印尼新闻数据集
